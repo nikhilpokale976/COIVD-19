@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nikhilpokale976/COIVD-19/static/css/main.5c958d69.css",
+    "main.js": "/nikhilpokale976/COIVD-19/static/js/main.a15d17f4.js",
+    "static/media/image.jpg": "/nikhilpokale976/COIVD-19/static/media/image.6537ced91704aab5dfa5.jpg",
+    "index.html": "/nikhilpokale976/COIVD-19/index.html",
+    "main.5c958d69.css.map": "/nikhilpokale976/COIVD-19/static/css/main.5c958d69.css.map",
+    "main.a15d17f4.js.map": "/nikhilpokale976/COIVD-19/static/js/main.a15d17f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c958d69.css",
+    "static/js/main.a15d17f4.js"
+  ]
+}
